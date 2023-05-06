@@ -61,9 +61,9 @@ python manage.py createsuperuser
 
 # Используемые технологии
 
-* Python
-* Django
-* Django Rest Framework
+* Python 3
+* Django 3
+* Django Rest Framework 3
 * SQLite
 
 # Автор
