@@ -1,4 +1,4 @@
-# Описание проекта
+# Практический проект Django REST API
 
 Данный проект представляет собой API для трёх приложений books, posts и todo. Проект выполнен по книге "Django for APIs" William S. Vincent с целью дополнительной практики в Django REST API. 
 
